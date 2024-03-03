@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhrahseynlli
 - 👀 I’m interested in AI technology
-- 🌱 I’m currently learning Python
-- 📫 How to reach me with the instagram(its name is same as github profile)
+- 🌱 I’m currently learning: Python,AI engineering course,Js
+- 📫 How to reach: zhra.hseynli@mail.ru
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: my fav color is violet
 
