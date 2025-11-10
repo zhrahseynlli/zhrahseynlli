@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhrahseynlli
-- 👀 I’m interested in AI technology
-- 🌱 I’m currently learning: Python,AI engineering course,Js
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning: Python,SQL,ML
 - 📫 How to reach: zhra.hseynli@mail.ru
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: my fav color is violet
